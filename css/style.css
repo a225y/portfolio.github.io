@@ -421,6 +421,9 @@ hr {
 #Portfolio hr{
 	margin-bottom:50px;
 	}	
+#Portfolio .hovereffect{
+	margin-right:30px;
+	}
 #Portfolio .hovereffect .col-md-4 img{
 	width:100%;
 	height:100%;
